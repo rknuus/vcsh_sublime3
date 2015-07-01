@@ -1,3 +1,8 @@
 {
-	"color_scheme": "Packages/Color Scheme - Default/Solarized (Dark).tmTheme"
+	"color_scheme": "Packages/Theme - Cyanide/Cyanide.tmTheme",
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"theme": "Cyanide.sublime-theme"
 }
