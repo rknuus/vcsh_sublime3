@@ -8,5 +8,12 @@
 	"icon_file_type_enable": true,
 	"centurion_folder_icons": true,
 	"contrasted_sidebar": true,
-	"contrasted_tabs": true
+	"contrasted_tabs": true,
+    "rulers":
+    [
+        // set text rulers so I can judge line length for pep8
+        79, // optimum code line length
+        120  // maximum allowable length
+    ],
+    "word_wrap": false, // I hate auto-wrapped text.
 }
