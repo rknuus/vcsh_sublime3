@@ -1,0 +1,28 @@
+{
+	"folders":
+	[
+		{
+			"path": "/home/knausr/homes/wheezy-i386/workspace/RLX3/rlx3"
+		}
+	],
+    "settings":
+    {
+        "python_interpreter_path": "/usr/bin/python"
+        // , "python_package_paths":
+        // [
+        //     "/path/to/project/buildout/parts/omelette"
+        // ]
+    // },
+    // "paths":
+    // {
+    //     "linux": ["/home/knausr/.config/sublime-text-3/Packages/User/Projects/subl_rlx3_env"],
+    //     "osx": [],
+    //     "windows": []
+    // },
+    // "python_paths":
+    // {
+    //     "linux": ["/home/knausr/.config/sublime-text-3/Packages/User/Projects/subl_rlx3_env"],
+    //     "osx": [],
+    //     "windows": []
+    }
+}
