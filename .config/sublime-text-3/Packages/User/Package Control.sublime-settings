@@ -4,7 +4,10 @@
 	],
 	"installed_packages":
 	[
+		"C++ Starting Kit",
 		"Package Control",
+		"SublimeLinter",
+		"SublimeLinter-cppcheck",
 		"Theme - Cyanide"
 	]
 }
