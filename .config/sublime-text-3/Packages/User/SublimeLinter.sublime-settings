@@ -19,8 +19,20 @@
                 "max-complexity": 10,
                 "max-line-length": null,
                 "select": ""
+            },
+            "cppcheck": {
+                "@disable": false,
+                "args": [],
+                "enable": "style",
+                "excludes": [],
+                "std": [
+                    "c++11"
+                ]
             }
         },
+        "mark_style": "outline",
+        "no_column_highlights_line": false,
+        "passive_warnings": false,
         "paths": {
             // TODO(KNR): paths should be project specific, shouldn't they?
             "linux": ["/home/knausr/.config/sublime-text-3/Packages/User/Projects/subl_rlx3_env"],

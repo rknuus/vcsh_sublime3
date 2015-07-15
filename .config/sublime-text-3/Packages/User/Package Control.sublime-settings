@@ -5,9 +5,11 @@
 	"installed_packages":
 	[
 		"Jedi - Python autocompletion",
+		"C++ Starting Kit",
 		"Package Control",
 		"SublimeLinter",
 		"SublimeLinter-flake8",
+		"SublimeLinter-cppcheck",
 		"Theme - Cyanide"
 	]
 }
