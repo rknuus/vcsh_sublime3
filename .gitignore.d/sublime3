@@ -11,6 +11,6 @@
 !/.config/sublime-text-3/Packages/User
 !/.config/sublime-text-3/Packages/User/**
 /.config/sublime-text-3/Packages/User/Package Control.*
-!/.config/sublime-text-3/Packages/User/Package Control.sublime-settings
+!/.config/sublime-text-3/Packages/User/*.sublime-settings
 .config/sublime-text-3/Packages/User/Projects/subl_rlx3_env
 *.sublime-workspace
