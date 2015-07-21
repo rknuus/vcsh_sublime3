@@ -4,6 +4,7 @@
 	],
 	"installed_packages":
 	[
+		"AdvancedNewFile",
 		"C++ Starting Kit",
 		"Jedi - Python autocompletion",
 		"Package Control",
