@@ -4,12 +4,12 @@
 	],
 	"installed_packages":
 	[
-		"Jedi - Python autocompletion",
 		"C++ Starting Kit",
+		"Jedi - Python autocompletion",
 		"Package Control",
 		"SublimeLinter",
-		"SublimeLinter-flake8",
 		"SublimeLinter-cppcheck",
+		"SublimeLinter-flake8",
 		"Theme - Cyanide"
 	]
 }
