@@ -8,9 +8,9 @@
 	"icon_file_type_enable": true,
 	"ignored_packages":
 	[
+		"C++",
 		"Vintage",
-		"C",
-		"C++"
+		"C"
 	],
 	"rulers":
 	[
