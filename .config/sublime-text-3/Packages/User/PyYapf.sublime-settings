@@ -1,0 +1,10 @@
+{
+      // full path and command to run yapf
+      "yapf_command": "/home/knausr/.local/bin/yapf",
+
+      // yapf style options
+      "config": {
+            // The column limit.
+            "COLUMN_LIMIT": 119,
+      }
+}
